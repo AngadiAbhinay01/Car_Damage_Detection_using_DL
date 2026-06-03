@@ -27,14 +27,12 @@ This project builds a complete Deep Learning pipeline to:
 ---
 ## 📸 Application Screenshots
 
-### Home Page
-![Home](images/home.png)
 
-### Upload Image
-![Upload](images/upload.png)
+### streamlit prediction Image
+![Upload](images/streamlit_prediction.png)
 
-### Prediction Result
-![Prediction](images/result.png)
+### FastaPI Prediction Result
+![Prediction](images/fastapi_prediction.png)
 
 ## 🚀 Features
 
