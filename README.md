@@ -306,9 +306,11 @@ http://127.0.0.1:8000/docs
 
 **Abhinay Angadi**
 
-📧 Email: [angadiabhinay2001@gmail.com](mailto:angadiabhinay2001@gmail.com)
-💼 LinkedIn: https://linkedin.com/in/abhinay-angadi-541004159
-💻 GitHub: https://github.com/AngadiAbhinay01
+📧 Email: <angadiabhinay2001@gmail.com>
+
+💼 LinkedIn: <https://linkedin.com/in/abhinay-angadi-541004159>
+
+💻 GitHub: <https://github.com/AngadiAbhinay01>
 
 ---
 
