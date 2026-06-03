@@ -244,6 +244,25 @@ http://localhost:8501
 
 ---
 
+### 5. Run the FastAPI Application
+
+```bash
+cd 3.FastAPI_App
+fastapi dev server.py
+```
+
+The API server will launch locally at:
+
+```text
+http://127.0.0.1:8000
+```
+
+API Documentation:
+
+```text
+http://127.0.0.1:8000/docs
+```
+
 ## 🛠 Tech Stack
 
 * **Python 3.10+** – Core programming language
