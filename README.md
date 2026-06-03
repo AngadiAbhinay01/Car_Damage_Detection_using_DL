@@ -25,6 +25,16 @@ This project builds a complete Deep Learning pipeline to:
 * Enable faster and more consistent damage assessment
 
 ---
+## 📸 Application Screenshots
+
+### Home Page
+![Home](images/home.png)
+
+### Upload Image
+![Upload](images/upload.png)
+
+### Prediction Result
+![Prediction](images/result.png)
 
 ## 🚀 Features
 
